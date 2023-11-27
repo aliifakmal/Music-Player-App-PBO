@@ -9,13 +9,15 @@ Program Studi : Pendidikan Teknik Informatika dan  Komputer
 
 Universitas Negeri Semarang
 
-# Kenalkan Kelompok 7 👋
+# Anggota Kelompok 7 
 
   1. Alfi Rahmawati        (5302422003)
   2. Julia Putri Pertiwi   (5302422033)
   3. Alif Akmal Hibatullah (5302422034)
   4. fatkhur Rizal Dzabadi (5302422038)
 
+# Referensi
+https://github.com/pyGuru123/Python-Projects/tree/master/Musicxy%20-%20Music%20Player
 
 ## Music Player App
 
